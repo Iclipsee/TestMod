@@ -1,0 +1,17 @@
+
+modLoader = "javafml" #mandatory
+loaderVersion = "[44,)" #mandatory
+license = "All Rights Reserved"
+
+[[mods]] #mandatory
+modId = "testmod" #mandatory
+version = "0.1.1-alpha" #mandatory
+displayName = "TestMod" #mandatory
+#updateJSONURL="http://myurl.me/" #optional
+#displayURL="http://example.com/" #optional
+logoFile="Passfoto.jpeg" #optional
+credits="Thanks to my parents for creating me" #optional
+authors = "Iclipse" #optional
+description = '''
+My first try of creating a mod with Forge
+'''

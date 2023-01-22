@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stick",
+  "textures": {
+    "layer0": "testmod:item/water_wand"
+  }
+}

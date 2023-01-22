@@ -1,0 +1,8 @@
+{
+  "block.testmod.green_block": "Green Block",
+  "block.testmod.black_block": "Black Block",
+  "item.testmod.emerald_sword": "Emerald Sword",
+  "item.testmod.water_wand": "Water Wand",
+  "item_group.testmod.all": "All Test-Items",
+  "testmod.waterwand.right_click": "Clicki die Click Click"
+}
